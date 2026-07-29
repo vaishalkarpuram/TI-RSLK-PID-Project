@@ -1,4 +1,6 @@
 //5/26 Version 3B 
+//This is the final version utilized for the PID Control algorithm. Tested on horseshoe track. 
+//Only major errors after this version were hardware issues. 
 #include <ECE3.h>
 
 
